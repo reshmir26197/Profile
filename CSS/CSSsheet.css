@@ -1,0 +1,19 @@
+body{
+  background-color: #FFE3F1;
+  margin: 40px 50px 20px 50px;
+}
+h2{
+  color: #FF275E;
+}
+
+hr{
+  width:20%;
+  border-top: 7px dotted #AAAAAA;
+}
+div {
+  background-color: #FFD3EF1;
+  width: auto;
+  border: 10px solid black;
+  padding: auto;
+  margin: auto;
+}
